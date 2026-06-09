@@ -7,5 +7,6 @@
 
 void Zadanie1();
 void Zadanie2();
+void Zadanie3();
 
 #endif //LABA17_ZADANIA_H
